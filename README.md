@@ -2,12 +2,12 @@
 Case studies that I have completed with the C programming language  
 #Keep Coding
 
-## Demo/cara kerja
-* Download programnya
-* Jalankan program pada text editor anda
+## Demo/how it works
+* Download the program
+* Run the program in your text editor
 
-## Tujuan repositori ini
-* Menjadi referensi untuk mengerjakan kasus menggunakan bahasa c
+## Purpose of this repository
+* Become a reference for working on cases using the c . programming language
 
 ## Authors
 *[@jhonkitri1](https://github.com/jhonkitri1)
