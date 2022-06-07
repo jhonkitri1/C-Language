@@ -7,7 +7,7 @@ Case studies that I have completed with the C programming language
 * Run the program in your text editor
 
 ## Purpose of this repository
-* Become a reference for working on cases using the c programming language
+* Become a reference for working on cases using the C programming language
 
 ## Authors
 [@jhonkitri1](https://github.com/jhonkitri1)
