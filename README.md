@@ -10,7 +10,7 @@ Case studies that I have completed with the C programming language
 * Menjadi referensi untuk mengerjakan kasus menggunakan bahasa c
 
 ## Authors
-* @jhonkitri1
+*[@jhonkitri1](https://github.com/jhonkitri1)
 
 ## LICENCE
 [MIT License](LICENSE)
