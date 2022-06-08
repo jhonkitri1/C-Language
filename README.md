@@ -9,7 +9,10 @@ Case studies that I have completed with the C programming language
 ## Purpose of this repository
 * Become a reference for working on cases using the C programming language
 
-## Authors
+## Feedback
+If you have any feedback, please reach out to me at @jhonkitri1@gmail.com
+
+## Author
 [@jhonkitri1](https://github.com/jhonkitri1)
 
 ## LICENCE
